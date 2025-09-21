@@ -234,7 +234,7 @@ do
 					ZIndex = 0,
 					Image = "rbxassetid://5028857084",
 					ImageColor3 = themes.Glow,
-					ImageTransparency = 0.3,
+					ImageTransparency = 0,
 					ScaleType = Enum.ScaleType.Slice,
 					SliceCenter = Rect.new(24, 24, 276, 276)
 				}),
